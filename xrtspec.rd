@@ -2,9 +2,9 @@
   <meta name="title">SWIFT XRT</meta>
   <meta name="creationDate">2018-02-01T01:02:03</meta>
   <meta name="description">
-  The SWIFT XRT data spectrum.
+      The SWIFT XRT data spectrum.
   </meta>
-  <meta name="creator.name">Carlos Brandt and Paolo Giommi</meta>
+  <meta name="creator.name">Carlos Brandt, Yu Ling Chang and Paolo Giommi</meta>
 
   <meta name="subject">Catalogs</meta>
   <meta name="subject">X-ray sources</meta>
