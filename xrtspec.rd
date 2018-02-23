@@ -27,12 +27,6 @@
         description="Object ID"
         required="True"/>
 
-    <column name="Source_name" type="text"
-      ucd="meta.id"
-      tablehead="Source_name" verbLevel="1"
-      description="Designation"
-      required="True"/>
-
     <column name="RA" type="double precision"
       unit="deg" ucd="pos.eq.ra;meta.main"
       tablehead="RA" verbLevel="1"
