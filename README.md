@@ -1,4 +1,4 @@
-# XRT_spec
+# xrtspec
 
 XRT spectral data from the xrtproc pipeline.
 
