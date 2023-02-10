@@ -4,7 +4,7 @@
   <meta name="description">
       The SWIFT XRT data spectrum.
   </meta>
-  <meta name="creator.name">Carlos Brandt, Yu Ling Chang and Paolo Giommi</meta>
+  <meta name="creator.name">Paolo Giommi et al. 2021</meta>
 
   <meta name="subject">Catalogs</meta>
   <meta name="subject">X-ray sources</meta>
@@ -15,7 +15,7 @@
   </meta>
 
   <meta name="source">
-    2018 in preparation
+    2021, MNRAS, 507, 5690
   </meta>
 
   <table id="main" onDisk="True" mixin="//scs#q3cindex" primary="Source_id">
@@ -75,16 +75,11 @@
       description="observation end time"
       required="True"/>
 
-    <column name="Phot_q" type="text"
-      ucd="meta.code.qual"
-      tablehead="Phot_q" verbLevel="1"
-      description="Photometry quality"
-      required="True"/>
 
   </table>
 
   <data id="import">
-    <sources>xrtspec.fits</sources>
+    <sources>xrtspec2.fits</sources>
 
     <fitsTableGrammar/>
 
